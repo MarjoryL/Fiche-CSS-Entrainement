@@ -1,0 +1,44 @@
+h1{
+    color: white;
+    background-image: url('ressources/Fonddetitre.jpg');
+    width: 60%;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    text-shadow: 5px 5px 2px #696969;
+    opacity: 0.9;
+}
+
+h2{
+    font-size: 28px;
+    padding-top: 30px;
+    color: #696969;
+  }
+
+p{
+    font-size: 18px;
+  }
+  
+table{
+    width: 60%;
+    border-collapse: collapse;
+  }
+  
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+thead{
+    font-size: 18px;
+    text-align: center;
+    background-color: #2F4F4F;
+    color: white;
+  }
+
+  .valeurs{
+    font-family: 'Courier New', Courier, monospace;
+  }
+ 
+
+  
